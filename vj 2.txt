@@ -1,0 +1,14 @@
+class vj2
+{
+    static void Main()
+    {
+        int x = 10;
+        int y = 7;
+        double a = 12.5;
+        double b = 16.7;
+
+            double prosjek = (x + y + a + b) / 4.0;
+
+        Console.WriteLine($"Prosječna vrijednost je: {prosjek}");
+    }
+}
